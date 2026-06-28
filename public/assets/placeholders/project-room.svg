@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Interior project placeholder</title>
+  <desc id="desc">Abstract room placeholder for interior, kitchen and bathroom project imagery.</desc>
+  <rect width="1200" height="900" fill="#151926"/>
+  <path d="M84 126h1032v648H84z" fill="#222738"/>
+  <path d="M196 224h808v426H196z" fill="#F4F6F9" opacity=".08"/>
+  <path d="M196 650h808v62H196z" fill="#FFFFFF" opacity=".14"/>
+  <path d="M292 312h246v338H292zM620 312h288v338H620z" fill="#2507D8" opacity=".76"/>
+  <g stroke="#FFFFFF" stroke-width="8" opacity=".62" fill="none">
+    <path d="M292 312h246v338H292zM620 312h288v338H620z"/>
+    <path d="M292 418h246M620 418h288M734 312v338"/>
+  </g>
+  <rect x="196" y="722" width="424" height="16" fill="#FFFFFF" opacity=".72"/>
+  <rect x="196" y="758" width="612" height="10" fill="#FFFFFF" opacity=".34"/>
+</svg>

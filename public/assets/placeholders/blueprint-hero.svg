@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1100" viewBox="0 0 1400 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Blueprint style project placeholder</title>
+  <desc id="desc">Abstract construction blueprint placeholder for DP Builders project imagery.</desc>
+  <rect width="1400" height="1100" fill="#0A0C14"/>
+  <rect x="64" y="64" width="1272" height="972" fill="#2507D8" opacity=".82"/>
+  <g opacity=".18" stroke="#FFFFFF" stroke-width="1">
+    <path d="M0 120H1400M0 240H1400M0 360H1400M0 480H1400M0 600H1400M0 720H1400M0 840H1400M0 960H1400"/>
+    <path d="M120 0V1100M240 0V1100M360 0V1100M480 0V1100M600 0V1100M720 0V1100M840 0V1100M960 0V1100M1080 0V1100M1200 0V1100"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="square">
+    <path d="M236 790V330h386v460H236Z" stroke-width="10"/>
+    <path d="M622 432h316v358H622" stroke-width="10"/>
+    <path d="M312 432h232v146H312V432Z" stroke-width="7" opacity=".84"/>
+    <path d="M704 512h156v278" stroke-width="7" opacity=".84"/>
+    <path d="M236 790h702M236 330h386M938 432v358" stroke-width="4" opacity=".5"/>
+    <path d="M1010 280h128v128h-128zM1074 280v128M1010 344h128" stroke-width="7" opacity=".72"/>
+  </g>
+  <g fill="#FFFFFF">
+    <rect x="172" y="892" width="396" height="20" opacity=".82"/>
+    <rect x="172" y="936" width="600" height="12" opacity=".44"/>
+    <rect x="172" y="968" width="486" height="12" opacity=".34"/>
+  </g>
+</svg>
