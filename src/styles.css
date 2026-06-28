@@ -11,6 +11,19 @@
   text-rendering: geometricPrecision;
 }
 
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2507d8;
+  border-radius: 2px;
+}
+
 html {
   scroll-behavior: smooth;
 }
