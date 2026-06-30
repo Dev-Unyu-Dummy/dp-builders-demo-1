@@ -16,7 +16,7 @@ export default function Navbar() {
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 px-4 pt-4">
-      <nav className="mx-auto max-w-7xl border border-white/15 bg-deep/50 shadow-lift backdrop-blur-lg">
+      <nav className="mx-auto max-w-7xl border border-white/15 bg-blueprint/50 shadow-lift backdrop-blur-lg">
         <div className="flex min-h-16 items-center justify-between gap-4 px-4 sm:px-5">
           <NavLink to="/" onClick={() => setOpen(false)}>
             <img

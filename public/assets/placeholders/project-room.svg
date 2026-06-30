@@ -5,7 +5,7 @@
   <path d="M84 126h1032v648H84z" fill="#222738"/>
   <path d="M196 224h808v426H196z" fill="#F4F6F9" opacity=".08"/>
   <path d="M196 650h808v62H196z" fill="#FFFFFF" opacity=".14"/>
-  <path d="M292 312h246v338H292zM620 312h288v338H620z" fill="#2507D8" opacity=".76"/>
+  <path d="M292 312h246v338H292zM620 312h288v338H620z" fill="#1900ab" opacity=".76"/>
   <g stroke="#FFFFFF" stroke-width="8" opacity=".62" fill="none">
     <path d="M292 312h246v338H292zM620 312h288v338H620z"/>
     <path d="M292 418h246M620 418h288M734 312v338"/>

@@ -13,10 +13,10 @@ export default function Home() {
 
   return (
     <main>
-      <section className="relative min-h-[92vh] overflow-hidden bg-deep pt-32 text-white sm:pt-8">
+      <section className="relative min-h-[92vh] overflow-hidden bg-deep pt-32 text-white sm:pt-24">
         <div className="absolute inset-0 bg-grid blueprint-grid opacity-25" />
         <div className="absolute left-1/2 top-28 hidden h-72 w-72 -translate-x-1/2 border border-white/10 bg-blueprint/20 blur-3xl lg:block" />
-        <div className="section-shell relative grid min-h-[calc(92vh-9rem)] items-center gap-10 pb-12 lg:grid-cols-[1.20fr_0.80fr]">
+        <div className="section-shell relative grid min-h-[calc(92vh-9rem)] items-center gap-10 pb-12 lg:grid-cols-[1.5fr_0.50fr]">
           <div className="reveal">
             <p className="font-display text-2xl font-extrabold uppercase tracking-wide text-white">
               DP Builders
@@ -71,14 +71,14 @@ export default function Home() {
 
       <section className="bg-plaster py-16 text-deep sm:py-20">
         <div className="section-shell">
-          <div className="grid gap-8 lg:grid-cols-[0.8fr_1.2fr] lg:items-end">
+          <div className="grid gap-8 lg:grid-cols-[1.0fr_1.0fr] lg:items-end">
             <SectionIntro
               dark={false}
               eyebrow="Company Profile"
               title="A disciplined build partner for homes that need more than a surface refresh."
               text="This placeholder profile introduces DP Builders as a practical, detail-led team for property improvements, interior development and exterior works across residential projects."
             />
-            <div className="grid gap-4 sm:grid-cols-3">
+            <div className="grid gap-4 sm:grid-cols-1">
               {[
                 ["Measured planning", ClipboardCheck],
                 ["Clean coordination", Clock],

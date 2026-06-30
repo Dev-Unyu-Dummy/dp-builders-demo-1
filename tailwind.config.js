@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        blueprint: '#2507D8',
+        blueprint: '#1900ab',
         deep: '#0A0C14',
         structural: '#151926',
         soft: '#222738',
@@ -12,11 +12,13 @@ export default {
         gallery: '#FFFFFF',
       },
       fontFamily: {
-        display: ['"Barlow Condensed"', 'Arial Narrow', 'sans-serif'],
-        body: ['"DM Sans"', 'system-ui', 'sans-serif'],
+        // display: ['"Lora"', 'Arial Narrow', 'sans-serif'],
+        display: ['"Fraunces"', 'Arial Narrow', 'sans-serif'],
+        // body: ['"DM Sans"', 'system-ui', 'sans-serif'],
+        body: ['"Work Sans"', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
-        blueprint: '0 24px 80px rgba(37, 7, 216, 0.28)',
+        blueprint: '0 24px 80px rgba(25, 0, 171, 0.28)',
         lift: '0 18px 50px rgba(10, 12, 20, 0.18)',
       },
       backgroundImage: {

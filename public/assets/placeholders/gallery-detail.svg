@@ -3,9 +3,9 @@
   <desc id="desc">Abstract material and build detail placeholder for gallery images.</desc>
   <rect width="1000" height="1200" fill="#0A0C14"/>
   <rect x="80" y="96" width="840" height="1008" fill="#F4F6F9"/>
-  <path d="M80 96h840v292H80z" fill="#2507D8"/>
+  <path d="M80 96h840v292H80z" fill="#1900ab"/>
   <path d="M170 494h660v94H170zM170 644h660v94H170zM170 794h660v94H170z" fill="#151926" opacity=".86"/>
   <path d="M170 494h660M170 588h660M170 644h660M170 738h660M170 794h660M170 888h660" stroke="#FFFFFF" stroke-width="6" opacity=".38"/>
   <path d="M210 246h580M210 286h420" stroke="#FFFFFF" stroke-width="18" opacity=".82"/>
-  <circle cx="768" cy="996" r="52" fill="#2507D8"/>
+  <circle cx="768" cy="996" r="52" fill="#1900ab"/>
 </svg>
